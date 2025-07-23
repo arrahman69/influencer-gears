@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+ 
 }
 .container{
     max-width: 1140px;
@@ -20,7 +21,54 @@ nav {
     color:#252432 ;
     font-weight: 700;
     font-size: 16px;
-
-
 }
+.banner{
+    display: flex;
+    width: 1140px;
+height: 461px;
+left: 150px;
+top: 221px;
+justify-content: center;
+align-items: flex-end;
+padding:0px;
+
+
+ 
+}
+.banner p{
+color: rgba(0, 0, 0, 0.5);
+
+font-size: 22px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+width: 500px;
+}
+.banner img{
+width: 570px;
+height: 355px;
+}
+.ppp{
+    font-family: Noto Serif;
+font-size: 65px;
+font-weight: 700;
+line-height: 89px;
+letter-spacing: 0%;
+text-align: left;
+}
+.lll{
+    color: rgb(233, 90, 8);
+font-family: Noto Serif;
+font-size: 65px;
+font-weight: 700;
+line-height: 89px;
+letter-spacing: 0%;
+text-align: left;
+}
+.kkk{
+     color: rgb(233, 90, 8);
+}
+
+
 
