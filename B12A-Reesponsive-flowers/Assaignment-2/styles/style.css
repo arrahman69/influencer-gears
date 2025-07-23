@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: auto;
+}
+nav {
+  display:flex;
+  justify-content: space-around;
+}
+.nav-item{
+    display: flex;
+    list-style:none;
+    gap: 50px;
+
+}
+.nav-item li a{
+    text-decoration: none;
+    color:#252432 ;
+    font-weight: 700;
+    font-size: 16px;
+
+
+}
+
